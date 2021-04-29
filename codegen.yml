@@ -1,0 +1,5 @@
+schema: 'https://raw.githubusercontent.com/graphql/swapi-graphql/master/schema.graphql'
+generates:
+  ./__generated__/types.d.ts:
+    plugins:
+      - typescript

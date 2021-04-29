@@ -7,6 +7,7 @@ This is a [Next.js](https://nextjs.org/) Typescript. This a basic boilerplate wh
 - ChakraUI (which uses emotion and framer-motion)
 - react-testing-library
 - Cypress
+- graphql-codegen (types generated from https://graphql.org/swapi-graphql)
 
 ## Getting Started
 
